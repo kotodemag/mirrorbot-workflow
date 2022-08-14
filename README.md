@@ -1,6 +1,6 @@
 # mirrorbot-workflow
 
-You can use [this repo](https://github.com/lzzy12/python-aria-mirror-bot) as a template
+You can use [this repo](https://github.com/rahulkhatri137/mirrorbot137) as a template
 
 First setup everything then push to your private Repository
 
@@ -8,13 +8,11 @@ Then Fork this Repo
 
 Setup secrets in settings --> Secrets
 
-```text
+```
 GH_TOKEN :- Your github personal access token, from https://github.com/settings/tokens
-MIRROR_REPOSLUG :- Your Secret Repository, as in "<username>/<reponame>"
-GitHubName:- Your GitHub UserName
-GitHubMail:- You GitHub Email Address
-Docker_Username:- Your DockerHub Username
-Docker_Password:- Your DockerHub Password
+REPO :- Your Secret Repository, as in "<reponame>"
+GHUSER :- Your GitHub UserName
+GHMAIL :- You GitHub Email Address
 ```
 
 And That's it.
