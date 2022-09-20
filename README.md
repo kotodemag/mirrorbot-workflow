@@ -9,10 +9,10 @@ Then Fork this Repo
 Setup secrets in settings --> Secrets
 
 ```
-GH_TOKEN :- Your github personal access token, from https://github.com/settings/tokens
-REPO :- Your Secret Repository, as in "<reponame>"
-GHUSER :- Your GitHub UserName
-GHMAIL :- You GitHub Email Address
+GH_TOKEN :- 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  Your github personal access token, from https://github.com/settings/tokens
+REPO :- Bokagram Your Secret Repository, as in "<reponame>"
+GHUSER :- kotodemag Your GitHub UserName
+GHMAIL :- kotodemag@pooj.de You GitHub Email Address
 ```
 
 And That's it.
